@@ -1,7 +1,0 @@
-﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Menu.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  temp.cpp
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
-C:\Users\ginge\Desktop\Bubble Sort Simulator\Libraries\include\glad\glad.h(32,1): message : see previous definition of 'APIENTRY'
-C:\Users\ginge\Desktop\Bubble Sort Simulator\temp.cpp(583,65): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\ginge\Desktop\Bubble Sort Simulator\temp.cpp(810,65): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-  OpenGL6.vcxproj -> C:\Users\ginge\Desktop\Bubble Sort Simulator\x64\Debug\OpenGL6.exe
